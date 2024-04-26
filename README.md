@@ -60,9 +60,7 @@ I currently am the president of the Proving Forum association, which aims to hel
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/gnu_octave-276DC3?style=for-the-badge&logo=Octave&logoColor=white)
-![Static Badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/R-0790C0?style=for-the-badge&logo=r&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -72,7 +70,10 @@ I currently am the president of the Proving Forum association, which aims to hel
 <h3 align="center">🛠️ Working tools 🛠️</h3>
 <div align="center">
 
+![Static Badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </div>
 
