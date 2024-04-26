@@ -18,6 +18,7 @@ I currently am the president of the Proving Forum association, which aims to hel
 <h2 align="center">💻 Techs 💻</h2>
 
 <h3 align="center">🌐 Web development 🌐</h3>
+<div align="center">
 
 ![Static Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,22 +38,26 @@ I currently am the president of the Proving Forum association, which aims to hel
 ![Static Badge](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
 
 <h3 align="center">⚙️ Software ⚙️</h3>
+<div align="center">
 
 ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+</div>
 
 <h3 align="center">🐇 Computational Geometry & Rendering 🐇</h3>
+<div align="center">
 
 ![Static Badge](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
-
+</div>
 
 <h3 align="center">🧮 Mathematics 🧮</h3>
-
+<div align="center">
 
 ![Static Badge](https://img.shields.io/badge/gnu_octave-276DC3?style=for-the-badge&logo=Octave&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
@@ -61,11 +66,15 @@ I currently am the president of the Proving Forum association, which aims to hel
 ![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/R-0790C0?style=for-the-badge&logo=r&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+</div>
+
 
 <h3 align="center">🛠️ Working tools 🛠️</h3>
+<div align="center">
 
 ![Static Badge](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+</div>
 
 
 <h2 align="center">☝️🤓 Github Stats ☝️🤓</h2>
